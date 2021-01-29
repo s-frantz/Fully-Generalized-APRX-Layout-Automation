@@ -1,4 +1,4 @@
-# Generalized-APRX-Layout-Automation
+# Fully-Generalized-APRX-Layout-Automation
 
 Function accepts a configuration structure, of the format discussed below.
 
